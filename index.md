@@ -6,7 +6,11 @@ permalink: /
 title: Home
 layout: custom_no_title
 ---
-## Two-Day School on AI and Law at DAIICT (5 - 6 April 2024)
+
+<h2 style="text-align: center;"> Two-Day School on AI and Law </h2>
+<h3 style="text-align: center;"> DA-IICT, Gandhinagar </h3>
+<h4 style="text-align: center;"> 5 - 6 April 2024</h4>
+
 
 
 ![AI and Law](assets/img/ai_and_law.png){:width="100%" height="400"}
