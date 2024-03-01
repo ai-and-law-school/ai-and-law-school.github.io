@@ -7,8 +7,6 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
-
-  <h1>TBD</h1>
   <!-- <div class = "post-content">
 	  <table style="border-collapse: collapse; border: none;">
 	  	{% for speaker in site.speakers %}
@@ -26,20 +24,20 @@ layout: default
 		        </td>
 		        <td style="border: none;">
 		            <div class="people-name text-center">
-		            	<!-- Speaker name (link to webpage if provided) -->
+		            #	Speaker name (link to webpage if provided) 
 		            	{% if speaker.webpage %}
 		            		<b><a href="{{ speaker.webpage }}" target="_blank">{{ speaker.name }}</a></b>
 		            	{% else %}
 		            		<b>{{ speaker.name }}</b>
 		            	{% endif %}
 		                <br>
-		                <!-- Speaker affiliation (if provided) -->
+		              #  Speaker affiliation (if provided) 
 		                {% if speaker.affil_link %}
 		                	<a href="{{ speaker.affil_link }}" target="_blank">{{ speaker.affil }}</a>
 		                {% else %}
 		                	{{ speaker.affil }}
 		                {% endif %}
-		                <!-- Additional speaker affiliation (if provided) -->
+		                # Additional speaker affiliation (if provided) 
 		                {% if speaker.affil2_link %}
 		                	<br>
 		                	<a href="{{ speaker.affil2_link }}" target="_blank">{{ speaker.affil2 }}</a>
