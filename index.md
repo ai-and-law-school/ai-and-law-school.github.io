@@ -4,19 +4,35 @@
 
 permalink: /
 title: Home
-layout: home
+layout: custom_no_title
 ---
+## Two-Day School on AI and Law at DAIICT (5 - 6 April 2024)
 
-Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0:
 
-![](assets/img/banner.jpg)
+![AI and Law](assets/img/ai_and_law.png){:width="100%" height="400"}
 
-The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
-1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
-2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
-3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
-4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
 
-> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
+In an era where technology intertwines with all aspects of life, the intersection of technology and law is more crucial than ever. DAIICT is hosting a two-day school that not only explores this dynamic relationship but also delves into how technological advancements can revolutionize the judicial system, making it more accessible and efficient. This event promises to be a meeting point for experts and enthusiasts alike, fostering discussions and learning.
 
-If you experience issues or have cool features to add, feel free to [fork this template]().
+### Objectives and Benefits
+
+The school aims to:
+- Provide insights into the latest developments at the intersection of technology and law.
+- Shed light on the role of technology in enhancing the accessibility of the judiciary to the common people.
+- Explore possible solutions for reducing the backlog of cases in higher courts through technological interventions.
+- Encourage the exchange of ideas among professionals from various sectors.
+- Foster dialogue between professionals from various backgrounds.
+- Enhance understanding of legal frameworks related to technological advancements.
+
+### Who Should Attend
+
+- Law Undergraduates keen on understanding AI's transformative role in legal research, practice, and ethics.  
+- Technology Undergraduates interested in the legal applications of AI and emerging career opportunities at this intersection.
+
+### Program Highlights
+
+- **Expert-led Sessions:** Learn from leading legal and tech professionals.  
+- **Interactive Workshops:** Hands-on experience with AI tools in legal contexts.  
+- **Networking Opportunities:** Connect with peers and industry leaders.  
+- **Career Insights:** Explore emerging career paths at the intersection of law and AI.
+
