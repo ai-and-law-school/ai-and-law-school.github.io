@@ -1,3 +1,15 @@
+
+<style>
+  /* Center the image horizontally and vertically */
+  .footer-col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%; /* Set the height of the container */
+  }
+
+  /* Optional: Style the image if needed */
+</style>
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
@@ -5,36 +17,33 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
+        
+        <a href="https://www.daiict.ac.in/" target="_blank">
+          <img src="/assets/img/daiict.png" alt="DA-IICT"  />
+        </a>
+      
+       </div>
       </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-        <p>{{ site.attribution }}</p>
-        {% if site.last_updated %}
-        Last updated: {{ "now" | date: '%B %d, %Y' }}.
-        {% endif %}
-      </div>
-    </div>
 
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
+      <div class="footer-col-wrapper">
+ 
+      <div class="footer-col">
+
+        <p>
+          © {{ site.title }} 2024, Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a>
+         </p>  
+      </div>
+      </div>
+      <div class="footer-col-wrapper">
+
+      <div class="footer-col">
+
+        {% if site.last_updated %}
+          <p>Last updated: {{ "now" | date: '%B %d, %Y' }}.</p>
+        {% endif %}      </div>
+      </div>
+    
+
 
   </div>
 
