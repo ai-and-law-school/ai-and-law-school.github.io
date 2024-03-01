@@ -35,10 +35,12 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - index.md
+- topic.md
 - speakers.md
 - organizers.md
 - schedule.md
 - contactus.md
+
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg
@@ -56,8 +58,8 @@ last_updated: true
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"
 collections:
-  speakers:
-    output: true
+  # speakers:
+  #   output: true
   organizers:
     output: true
   schedule:
