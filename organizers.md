@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizers
+title: Organization Committee
 permalink: /organizers/
 ---
 
