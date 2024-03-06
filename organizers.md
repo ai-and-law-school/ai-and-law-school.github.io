@@ -4,12 +4,12 @@ title: Organization Committee
 permalink: /organizers/
 ---
 
-- Prasenjit majumder, DAIICT Gandhinagar
+- Prasenjit Majumder, DAIICT Gandhinagar
 - Kripabandhu Ghosh, IISER Kolkata
-- Pritam anand, DAIICT Gandhinagar
-- Arpit rana, DAIICT Gandhinagar
-- Rachit chhaya, DAIICT Gandhinagar
-- Manish khare, DAIICT Gandhinagar
+- Pritam Anand, DAIICT Gandhinagar
+- Arpit Rana, DAIICT Gandhinagar
+- Rachit Chhaya, DAIICT Gandhinagar
+- Manish Khare, DAIICT Gandhinagar
 - Bhargav Dave, DAIICT Gandhinagar
 - Surupendu Gangopadhyay, DAIICT Gandhinagar
 
