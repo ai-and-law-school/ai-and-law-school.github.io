@@ -16,7 +16,7 @@ layout: custom_no_title
 ![AI and Law](assets/img/ai_and_law.png){:width="100%" height="400"}
 
 
-In an era where technology intertwines with all aspects of life, the intersection of technology and law is more crucial than ever. DAIICT is hosting a two-day school that not only explores this dynamic relationship but also delves into how technological advancements can revolutionize the judicial system, making it more accessible and efficient. This event promises to be a meeting point for experts and enthusiasts alike, fostering discussions and learning.
+In an era where technology intertwines with all aspects of life, the intersection of technology and law is more crucial than ever. The Dhirubhai Ambani centre for technology and law (DACTL) of DA-IICT is hosting a two-day school that not only explores this dynamic relationship but also delves into how technological advancements can revolutionize the judicial system, making it more accessible and efficient. This event promises to be a meeting point for experts and enthusiasts alike, fostering discussions and learning.
 
 ### Objectives and Benefits
 
