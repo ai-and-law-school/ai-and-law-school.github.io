@@ -4,7 +4,7 @@ title: Speakers
 permalink: /speakers/
 ---
 
-- [Maura Grossman](https://grossman.uwaterloo.ca/)  – University of Waterloo
+- [Maura Grossman](https://grossman.uwaterloo.ca/)  – University of Waterloo 
 - [Kevin Ashley](https://www.law.pitt.edu/people/kevin-ashley) – University of Pittsburgh
 - [Jack G. Conrad](https://www.conradweb.org/~jackg/) - Thomson Reuters
 - [Ken Satoh](https://research.nii.ac.jp/~ksatoh/) – National Institute of Informatics (NIT) and  The Graduate University of Advanced Studies (Sokendai)
