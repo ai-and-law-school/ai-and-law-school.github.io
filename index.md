@@ -9,7 +9,7 @@ layout: custom_no_title
 
 <h2 style="text-align: center;"> Two-Day School on AI and Law </h2>
 <h4 style="text-align: center;"> Hosted by</h4>
-<h3 style="text-align: center;">Dhirubhai Ambani centre for technology and law (DACTL), </h3>
+<h3 style="text-align: center;">Dhirubhai Ambani centre for technology and law (DACTL) </h3>
 <h4 style="text-align: center;"> DA-IICT, Gandhinagar</h4>
 <h4 style="text-align: center;"> 5 - 6 April 2024</h4>
 
