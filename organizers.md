@@ -4,12 +4,13 @@ title: Organization Committee
 permalink: /organizers/
 ---
 
-- Prasenjit Majumder, DAIICT   (Convenor)
+- Prasenjit Majumder, DA-IICT   (Convenor)
 - Kripabandhu Ghosh, IISER Kolkata
-- Pritam Anand, DAIICT 
-- Arpit Rana, DAIICT 
-- Rachit Chhaya, DAIICT 
-- Manish Khare, DAIICT 
-- Bhargav Dave, DAIICT 
-- Surupendu Gangopadhyay, DAIICT 
+- Pritam Anand, DA-IICT 
+- Arpit Rana, DA-IICT 
+- Rachit Chhaya, DA-IICT 
+- Manish Khare, DA-IICT 
+- Shruti bhilare, DA-IICT
+- Bhargav Dave, DA-IICT 
+- Surupendu Gangopadhyay, DA-IICT 
 
