@@ -9,7 +9,7 @@ layout: custom_no_title
 
 <h2 style="text-align: center;"> Two-Day School on AI and Law </h2>
 <h4 style="text-align: center;"> Hosted by</h4>
-<h3 style="text-align: center;">Dhirubhai Ambani Centre for technology and law (DACTL) </h3>
+<h3 style="text-align: center;">Dhirubhai Ambani Centre for Technology and Law (DACTL) </h3>
 <h4 style="text-align: center;"> DA-IICT, Gandhinagar</h4>
 <h4 style="text-align: center;"> 5 - 6 April 2024</h4>
 
@@ -18,7 +18,7 @@ layout: custom_no_title
 ![AI and Law](assets/img/ai_and_law.png){:width="100%" height="400"}
 
 
-In an era where technology intertwines with all aspects of life, the intersection of technology and law is more crucial than ever. The Dhirubhai Ambani Centre for technology and law (DACTL) of DA-IICT is hosting a two-day school that not only explores this dynamic relationship but also delves into how technological advancements can revolutionize the judicial system, making it more accessible and efficient. This event promises to be a meeting point for experts and enthusiasts alike, fostering discussions and learning.
+In an era where technology intertwines with all aspects of life, the intersection of technology and law is more crucial than ever. The Dhirubhai Ambani Centre for Technology and Law (DACTL) of DA-IICT is hosting a two-day school that not only explores this dynamic relationship but also delves into how technological advancements can revolutionize the judicial system, making it more accessible and efficient. This event promises to be a meeting point for experts and enthusiasts alike, fostering discussions and learning.
 
 ### Objectives and Benefits
 
