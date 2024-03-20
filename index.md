@@ -32,8 +32,8 @@ The school aims to:
 
 ### Who Should Attend
 
-- Law Undergraduates keen on understanding AI's transformative role in legal research, practice, and ethics.  
-- Technology Undergraduates interested in the legal applications of AI and emerging career opportunities at this intersection.
+- Law Undergraduates and Law Professionals  keen on understanding AI's transformative role in legal research, practice, and ethics.  
+- Technology Undergraduates and Professionals interested in the legal applications of AI and emerging career opportunities at this intersection.
 
 ### Program Highlights
 
