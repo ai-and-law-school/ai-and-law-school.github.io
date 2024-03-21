@@ -8,4 +8,4 @@ permalink: /contactus/
 
 - **Phone:** 079-30510638
 
-- **Email:** [irlab@daiict.ac.in](mailto:irlab@daiict.ac.in)
+- **Email:** [dactl_events@daiict.ac.in](mailto:dactl_events@daiict.ac.in)
