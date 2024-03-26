@@ -14,7 +14,7 @@ permalink: /speakers/
 
 - ![Adam Wyner]({{ site.baseurl }}/assets/img/speakers/Adam-Wyner.webp){:style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px; object-fit: cover; object-position: center;margin-right: 15px;"}[Adam Wyner](https://www.swansea.ac.uk/staff/a.z.wyner/) – Swansea University, United Kingdom
 
-- ![Ameen Jauhar]({{ site.baseurl }}/assets/img/speakers/Ameen.jpg){:style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px; object-fit: cover; object-position: center;margin-right: 15px;"}[Ameen Jauhar](https://cerai.iitm.ac.in/people/ameen-jauhar/) -  CeRAI
+- ![Ameen Jauhar]({{ site.baseurl }}/assets/img/speakers/Ameen.jpg){:style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px; object-fit: cover; object-position: center;margin-right: 15px;"}[Ameen Jauhar](https://www.linkedin.com/in/ameen-jauhar-5ab9a838/?originalSubdomain=uk) -  CAB International
 
 
 - ![Souvik Kumar Guha]({{ site.baseurl }}/assets/img/speakers/shouvik-kumar-guha.jpg){:style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px; object-fit: cover; object-position: center;margin-right: 15px;"}[Souvik Kumar Guha](https://www.nujs.edu/faculty/dr-shouvik-kumar-guha/) -  NUJS, India
