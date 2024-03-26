@@ -11,6 +11,8 @@ layout: custom_no_title
 <h4 style="text-align: center;"> Hosted by</h4>
 <h3 style="text-align: center;">Dhirubhai Ambani Centre for Technology and Law (DA-CTL) </h3>
 <h4 style="text-align: center;"> DA-IICT, Gandhinagar</h4>
+<h4 style="text-align: center;"> Hybrid Event</h4>
+
 <h4 style="text-align: center;"> 5 - 6 April 2024</h4>
 
 
